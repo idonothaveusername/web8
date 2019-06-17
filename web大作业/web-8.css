@@ -1,0 +1,402 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+.toubu-wrap{
+	height:38px;
+}
+.toubu{
+	width:1200px;
+	margin:0 auto;
+}
+.z1{
+	width:143px;
+	height: 38px;
+	float:left;
+	font-size:13px;
+	color: rgb(120,120,120);
+	margin-left: 518px;
+	text-align: center;
+	line-height: 38px;
+}
+.z2{
+	width: 155px;
+	height: 38px;
+	float: left;
+	margin-left: 23px;
+	text-align: center;
+	line-height: 38px;
+}
+.z3{
+	width:95px;
+	height:38px;
+	float: left;
+	font-size: 15px;
+	color: rgb(120,120,120);
+	margin-left:24px;
+	text-align: center;
+	line-height: 38px;
+	outline: none;
+	border: none;
+}
+.z4{
+	width:95px;
+	height:38px;
+	float:left;
+	font-size: 15px;
+	color: rgb(120,120,120);
+	margin-left:2px;
+	text-align: center;
+	line-height: 38px;
+	outline: none;
+	border: none;
+}
+.z5{
+	width:75px;
+	height:38px;
+	float:left;
+	color: rgb(120,120,120);
+	margin-left:2px;
+	text-align: center;
+	line-height: 38px;
+}
+.z6{
+	width:62;
+	height: 38px;
+	float: left;
+	margin-left: 14px;
+	text-align: center;
+	margin-top: 8px;
+}
+.shoubu-wrap{
+	height:108px;	
+}
+.shoubu{
+	width: 1200px;
+	margin:0 auto;
+}
+.one{
+	width: 256px;
+	float: left;
+	margin-top: 15px;
+}
+.one img{
+	text-align: center;
+}
+.two{
+	width:640px;
+	text-align: center;
+/*	line-height: 108px;*/
+	float: left;
+	margin-left: 100px;
+}
+.two input{
+	height:46px;
+	width: 540px;
+	text-align: center;
+	font-size: 16px;
+	color:rgb(228,228,228);
+	border-left: 1px rgb(57,57,66) solid;
+	border-bottom: 1px rgb(57,57,66) solid;
+	border-top: 1px rgb(57,57,66) solid;
+	margin-top: 30px;
+}
+.i {
+	width:59px;
+	height: 46px;
+	float: left;
+	margin-left: -49px;
+	border-left: 2px rgb(204,204,204) solid;
+	border-bottom: 1px rgb(57,57,66) solid;
+	border-right: 1px rgb(57,57,66) solid;
+	border-top: 1px rgb(57,57,66) solid;
+	margin-top: 30px;
+}
+.i img{
+	text-align: center;
+	margin-top: 2px;
+	margin-left: 10px;
+}
+.three{
+	width: 55px;
+	height: 46px;
+	float: left;
+	margin-left: 135px;
+	margin-top: 35px;
+}
+.nav-wrap{
+	height: 47px;
+	border-bottom: 2px rgb(58,167,71) solid;
+}
+.nav{
+	width:1200px;
+	/*height: 47px;*/
+	margin:0 auto;
+}
+.zuo{
+	width: 100px;
+	height: 45px;
+	text-align: center;
+	line-height: 45px;
+	float: left;
+}
+.you{
+	width: 1000px;
+	height: 45px;
+	float: left;
+	margin-left: 10px;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
+ul{
+	list-style: none;
+}
+.you li{
+	display: inline-block;
+	width: 90px;
+	height: 45px;
+	text-align: center;
+	line-height: 45px;
+	float: left;
+	margin-left: 20px;
+}
+.you li:hover{
+	border-bottom: 2px rgb(58,167,71) solid;
+}
+.you li:hover>a{
+	color: rgb(58,167,71);
+}
+.banner{
+	width: 100%;
+	height: 670px;
+	background:url(imgs/banner.png) no-repeat center; 
+}
+
+.xie-wrap{
+	height: 42px;
+}
+.xie{
+	width: 1200px;
+	margin:0 auto;
+}
+.p1{
+	width: 60px;
+	height:42px;
+	font-size: 17px;
+	float: left;
+	margin-left: 20px;
+	text-align: center;
+	line-height: 42px;
+}
+.p2{
+	width: 60px;
+	font-size:14px;
+	color: rgb(168,168,168);
+	float: left;
+	margin-left: -9px;
+	text-align: center;
+	line-height: 42px;
+}
+.p3{
+	width:118px;
+	height: 42px;
+	float: right;
+	font-size: 13px;
+	color: rgb(168,168,168);
+	text-align: center;
+	line-height: 50px;
+}
+.lei-wrap{
+	height:165px;
+}
+.lei{
+	width:1200px;
+	margin:0 auto;
+}
+.lei a{
+	color:rgb(168,168,168);
+}
+.first{
+	width:1200px;
+	height: 45px;
+	border: 1px rgb(168,168,168) solid;
+}
+#hui{
+	background-color: rgb(229,229,229);
+	color: #000;
+	margin-left: -2px;
+}
+#green{
+	color: rgb(58,167,71);
+}
+.first li:hover>a{
+	color: rgb(58,167,71);
+}
+.first li:visited>a{
+	color: rgb(58,167,71);
+}
+.first li{
+	display: inline-block;
+	width:105px;
+	height: 45px;
+	text-align: center;
+	line-height: 45px;
+	float: left;
+	margin-left: 24px;
+}
+
+.second{
+	width:1200px;
+	height: 45px;
+	border-left: 1px rgb(168,168,168) solid;
+	border-right: 1px rgb(168,168,168) solid;
+	margin-top: -21px;
+}
+.second li{
+	display: inline-block;
+	width:105px;
+	height: 45px;
+	text-align: center;
+	line-height: 45px;
+	float: left;
+	margin-left: 24px;
+}
+.third{
+	width:1200px;
+	height: 45px;
+	border: 1px rgb(168,168,168) solid;
+	margin-top: -21px;
+}
+.third li{
+	display: inline-block;
+	width:105px;
+	height: 45px;
+	text-align: center;
+	line-height: 45px;
+	float: left;
+	margin-left: 24px;
+}
+.third p{
+	color: rgb(139,139,139);
+	float: right;
+	width: 105px;
+	text-align: center;
+	line-height: 45px;
+}
+.pic-wrap{
+	height: 720px;
+}
+.pic{
+	width: 1200px;
+	margin:0 auto;
+}
+.pic1{
+	width: 274px;
+	height: 350px;
+	border:1px rgb(139,139,139) solid;
+	float: left;
+	position: relative;
+	margin-left: 20px;
+	margin-top: 25px;
+}
+.hr1{
+	width: 274px;
+	height: 52px;
+	background-color: rgb(76,76,76,0.7);
+	position: absolute;
+	bottom: 0px;
+	left:0px;
+	margin-top: -2px;
+}
+.hr1 p{
+	color: #fff;
+	text-align: center;
+	height: 25px;
+	line-height:25px;
+}
+.pic1:hover .hr1{
+	width: 274px;
+	height: 350px;
+	background-color: rgb(76,76,76,0.7);
+	position: absolute;
+	top:0px;
+	left: 0px; 
+}
+.pic1:hover .hr1 p{
+	font-size:20px;
+}
+.pic1:hover .hr1 p:first-child{
+	margin:110px 20px 20px 30px;
+}
+.pic div+div img{
+	margin:90px 0 0 36px;
+}
+.last-wrap{
+	height:102px;
+	background-color:rgb(245,245,245);
+	margin-top: 100px;
+}
+.last{
+	width: 1200px;
+	margin:0 auto;
+}
+.last1{
+	width: 254px;
+	float: left;
+	margin-left: 31px;
+	margin-top: 23px;
+}
+.tu{
+	width:65px;
+	float:left;
+	margin-left: 28px;
+}
+.zi{
+	width: 160px;
+	float: right;
+}
+
+.yi{
+	font-size: 19px;
+	color: #000;
+}
+.er{
+	font-size: 12px;
+	color: #000;
+}
+.end-wrap{
+	background-color: rgb(50,50,50);
+	height: 100px;
+}
+.end{
+	width: 1200px;
+	margin:0 auto;
+}
+.end p{
+	float: left;
+	height: 30px;
+	font-size: 11px;
+	width: 1200px;
+	text-align: center;
+	line-height: 30px;
+	margin-top: 10px;
+	color: #fff;
+}
+.fix{
+	position: fixed;
+	right: 0px;
+	top:188px;
+	width:60px;
+	height: 600px;
+}
+.fix li{
+	height: 70px;
+	background-color: #000;
+	text-align: center;
+	margin-top: 1px;
+}
+.fix li img{
+	margin-top: 14px;
+}
